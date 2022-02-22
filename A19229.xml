@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interiorum corporis humani partium viva delineatio perutilis anatomes interiorum muliebris partium cognitio ac earundem situs, figura numerus, positio, hand iniucounda cognitu.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1559</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19229</idno>
+            <idno type="STC">STC 564.6</idno>
+            <idno type="STC">ESTC S128</idno>
+            <idno type="EEBO-CITATION">21530870</idno>
+            <idno type="OCLC">ocm 21530870</idno>
+            <idno type="VID">24733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 24733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1739:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Interiorum corporis humani partium viva delineatio perutilis anatomes interiorum muliebris partium cognitio ac earundem situs, figura numerus, positio, hand iniucounda cognitu.</title>
+               </titleStmt>
+               <extent>[3] leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1559]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two sets of texts with caption titles: The anatomie of the inwarde partes of man ... ; The anatomie of the inward partes of wooman ...</note>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Human anatomy --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="anatomical_text">
+            <pb facs="tcp:24733:1"/>
+            <div type="part">
+               <head>¶ The Anatomie of the inwarde Partes of man, lyuely ſette foorth and: diligently declaryng the principal vaynes with the vſe <hi>of letting bludde, very neceſsarie for Phiſytians and Surgians and all other that deſyre to knowe them ſelues.</hi>
+               </head>
+               <list>
+                  <head>¶ <hi>THE SIGNIFICATION OF SVCHE</hi> letters, as are placed in this figure.</head>
+                  <item>
+                     <label>A</label> 
+                     <seg rend="decorInit">S</seg>IGNIFYETH the gulle of the throte, called alſo the throte bolle, and in Late<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Gurgulio</hi> &amp; <hi>Canna pulmonis.</hi> that is to ſaic, the Lungepvpe &amp; weſon, pertayning to the<g ref="char:cmbAbbrStroke">̄</g> lightes &amp; to the hart: conueyng ayre to then both, &amp; it diuideth it ſelfe into many holow pypes within the Lunges, as ye ſe.</item>
+                  <item>
+                     <label>B</label> Signifieth the Lunges or lthtes, called in Late<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Pulono,</hi> and it is called the bellowes of the bodye, for it draweth &amp; ſendeth fourth again the ayre, with the which the harte &amp; other membres are tempered: wherfore the Lunges be full of holeneſſe, euen like a ſponge and emptie, openinge it ſelfe to the receauinge of ayre, and gathering it ſelfe to gether, to expel it again, as dothe-apayre of bellowes: fa<g ref="char:EOLhyphen"/>ſheoned muche after the ſhape of an Oxe houſe.</item>
+                  <item>
+                     <label>C</label> Signifieth the hafte called in Laten <hi>Cor,</hi> the ſeate of lyfe, the ruler and director of ſpirite &amp; bludde. It apereth within againſt the lefte breſt: it is figured rounde tending to ſharpeneſſe at one of his endes, the whiche is to wards the breſt: it is of all other membres the principall, and is called the ſonne of the leſſe worlds: for man amonge Phi<g ref="char:EOLhyphen"/>loſophers is called the leſſe worlde, and the harte beyng in it, is to all the body as the ſunne is to all this greate vni<g ref="char:EOLhyphen"/>uerſall worlde: which approchinge neare vnto vs, al thin<g ref="char:EOLhyphen"/>ges reioyce, herbes bringe fourth flowres, trees ſpredde their branches, all fowle, fyſhe, and beaſtes, receaue great comforte: euen ſo the harte in man beyng heuy &amp; penſyue, al the body is ſad and yll diſpoſed: The harte agayne being glad &amp; mery, al the body is light &amp; luſty: For it illumineth and lighteneth all other membres with his ſpirite. It is the fyrſte membre in man that receaueth lyfe, and the laſt that dyeth. Only this parte in man is neuer greaued no<g ref="char:EOLhyphen"/>tably with any diſceaſe, but if it be, forthwith it dyeth, and all the man with hym.</item>
+                  <item>
+                     <label>D</label> Signifieth the Middrefe, called <hi>Diaphragma, Septum tranſuerſum, &amp; Praecordia,</hi> and it is a thyn ſkin, whicke deui<g ref="char:EOLhyphen"/>deth the uppar part of the body fro<g ref="char:cmbAbbrStroke">̄</g> the nether part, that is to ſay, the hart &amp; lu<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es, from the ſplene &amp; lyuer. &amp;c.</item>
+                  <item>
+                     <label>E</label> Signifieth the throte pype, called in Laten <hi>Gula, &amp; in<g ref="char:EOLhyphen"/>terior Collifiſtula,</hi> that is to witte, the ynner pip<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or co<g ref="char:cmbAbbrStroke">̄</g>ducte of the necke, the whiche commeth from the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to t<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſtomacke &amp; through it is conueyed the meate and dri<gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> which by the mouthe is ſente in to the ſtomacke. And where this pype doth appere aboue the ſhoulders where alſo the throte bolle is ſene, there it is called the throte, &amp; the outwarde pipe of the necke: And this part of the ſame pype ſhowinge it ſelf in the boſke of the bodye, is called the inwarde parte of the neckepype or throte pype.</item>
+                  <item>
+                     <label>F</label> Signifieth the vpper parte of the mouthe of the ſto<g ref="char:EOLhyphen"/>macke, called in Laten <hi>Os ſtomachi.</hi>
+                  </item>
+                  <item>
+                     <label>G</label> Signifieth the ſtomacke, called in Laten <hi>Stomachus,</hi> the receptacle of meate and drinke, a place diuiſed of nature to concocte and digeſt foode as a furneſſe, wherein meate is ſode<g ref="char:cmbAbbrStroke">̄</g>: and it is offended with manye and ſundry deſeaſes.</item>
+                  <item>
+                     <label>H</label> Signifieth the botome of the ſtomacke, the whiche (meate being in the ſtomake vndigeſted,) is very cloſe &amp; the ſame beinge ons decocte &amp; digeſted, it openeth it ſelfe agayne.</item>
+                  <item>
+                     <label>I</label> Signifieth the nether mouth of the ſtomacke, or the yſſue of the ſame, called in Greke <hi>Pylorus,</hi> and commonely in Laten <hi>Protonarius,</hi> the waie by the which the meate ons digeſted, paſſeth downe to the guttes.</item>
+                  <item>
+                     <label>K</label> Signifieth the lyuer called in Laten <hi>Hepar,</hi> and <hi>Iecur,</hi> this is the place where the iuyce commyng of meate di<g ref="char:EOLhyphen"/>geſted in the ſtomacke, is tranſmuted and altered in to bludde: but that part of this iuyce, whiche is not apt to be co<g ref="char:cmbAbbrStroke">̄</g>uerted to bludde, is altered, part to flewine, part to col<g ref="char:EOLhyphen"/>lor, and parte to melancholy.</item>
+                  <item>
+                     <label>L</label> Signifieth the Gaulle called in Laten <hi>Fel:</hi> this part receaueth the refuce &amp; dregges of the bludde, &amp; it cleaueth cheafely to the lappes of the lyuer.</item>
+                  <item>
+                     <label>M</label> Signifieth a certayn vayne, called in Late<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Vena portae,</hi> and <hi>Manus iccoris,</hi> that is, the hande of the lyuer: this vayne receaueth the digeſted iuyce by diuers vaynes out of the ſtomacke &amp; other bowelles, and ſendeth the melancholie parte in to the ſplene.</item>
+                  <item>
+                     <label>N</label> Signifieth the ſplene, called in Laten <hi>Splen &amp; Lien,</hi> whiche is the receptacle and ſynke of melancholy.</item>
+                  <item>
+                     <label>O</label> Signifieth a vayne which in Laten is called <hi>Vena caua &amp; Venaiecoraria,</hi> the holowe veyne, the vayne of the lyuer, for by this vayn the bludde engendred in the lyuer, is my<g ref="char:EOLhyphen"/>niſtred to all partes of the bodye, to noryſſhe the body therwyth.</item>
+                  <item>
+                     <label>P</label> Signifieth the kydneys called in Laten <hi>Renes,</hi> faſtened to both ſydes of the body neare to the loines, but the right kidney ſta<g ref="char:cmbAbbrStroke">̄</g>deth ſomwhat higher then the left by thoſe the watery part of the blude actracte and drawen, deſcendeth through certayne other vaynes, as ye ſe in to the bladder.</item>
+                  <item>
+                     <label>Q</label> Signifieth the bladder, in Laten <hi>Veſica,</hi> receptacle and receauer of vryne.</item>
+                  <item>
+                     <label>R</label> Signifieth the ſtones, called in Laten <hi>Teſticuli</hi> and this is the place where ſeade is engendred.</item>
+                  <item>
+                     <label>S</label> Signifieth the coddes, called in Laten <hi>Scrotum.</hi>
+                  </item>
+                  <item>
+                     <label>T</label> Signifieth the priuie parte of man, caled in Late<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Penis,</hi> in whome be two notable waies or yſſues, wherof the one is the vryne, yſſue, the other is called the ſede yſſue.</item>
+                  <item>
+                     <label>V</label> Signifieth the ſmal guttes, called in Laten <hi>Ilia,</hi> in thoſe is engendred the cruell payn, called the knawing, or payn of the belly.</item>
+                  <item>
+                     <label>X</label> Signifieth the groſſer and greater part of the gut<g ref="char:EOLhyphen"/>tes, in Laten called <hi>Colon,</hi> in whom the excrementes or or<g ref="char:EOLhyphen"/>doure long witholden, receaueth a certayne forme &amp; faſ<g ref="char:EOLhyphen"/>ſhyon after the place. This part manny tymes is ſore ve<g ref="char:EOLhyphen"/>xed with the Colike.</item>
+                  <item>
+                     <label>Y</label> Signifieth the latter ende of all the guttes, thorowe the which immedyatly the ordure is expelled, named alſo the fundame<g ref="char:cmbAbbrStroke">̄</g>t. This place manye tymes is offended with a deſeaſe, called the piles or emorrodes, and this place in Laten is named <hi>Longanon.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="illustration">
+               <pb facs="tcp:24733:1"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <p>
+                  <pb facs="tcp:24733:2"/>
+                  <figure>
+                     <head>INTERIORVM CORPORIS HV<g ref="char:EOLunhyphen"/>MANI PARTIVM VIVA DELINEATIO.</head>
+                     <head>PERVTILIS ANATOMES INTE<g ref="char:EOLhyphen"/>RIORVM MVLIEBRIS PARTIVM COGNITIO AC earundem ſitus, figura, numerus, poſitio, haud iniucounda cognitu.</head>
+                     <q>Noſce te ipſum</q>
+                     <q>Knowe thyſelf</q>
+                     <byline>R. S.</byline>
+                     <figDesc>anatomical view: male and female with a partial diagram of the circulatory system depicted in the male</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <pb facs="tcp:24733:3"/>
+                  <figure>
+                     <head>INT<gap reason="illegible" extent="7 letters">
+                           <desc>〈7 letters〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="7 letters">
+                           <desc>〈7 letters〉</desc>
+                        </gap>ORPORIS HV<g ref="char:EOLunhyphen"/>MANI <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>VA DELINEATIO.</head>
+                     <head>PERVTILI<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> INTE<g ref="char:EOLhyphen"/>RIORVM MVLIE<gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>OGNITIO AC earundem ſitus, figura, numeru<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, <gap reason="illegible" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>niucounda cognitu.</head>
+                     <q>Noſce te ipſum</q>
+                     <q>Knowe thyſelf</q>
+                     <byline>R. S.</byline>
+                     <figDesc>anatomical view: male and female with internal organs depicted in both</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <pb facs="tcp:24733:4"/>
+                  <figure>
+                     <head>INT<gap reason="illegible" extent="7 letters">
+                           <desc>〈7 letters〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="7 letters">
+                           <desc>〈7 letters〉</desc>
+                        </gap>ORPORIS HV<g ref="char:EOLunhyphen"/>MAN<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>VA DELINEATIO.</head>
+                     <head>PERVTILI<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> INTE<g ref="char:EOLhyphen"/>RIORVM MVLIE<gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>OGNITIO AC earundem ſitus, figura, numeru<gap reason="illegible" extent="7 letters">
+                           <desc>〈7 letters〉</desc>
+                        </gap>, <gap reason="illegible" extent="2 words">
+                           <desc>〈◊◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>niucounda cognitu.</head>
+                     <q>Noſce te ipſum</q>
+                     <q>Knowe thyſelf</q>
+                     <byline>R. S.</byline>
+                     <figDesc>anatomical view: male and female with partial skeletal structure depicted in both</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:24733:5"/>
+               <pb facs="tcp:24733:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:24733:6"/>
+            </div>
+            <div type="part">
+               <pb facs="tcp:24733:6"/>
+               <head>¶ The Anatomie of the inward Partes of wooman, very neceſſarie to be knowen to Phiſitians and Surgians and all other that deſyre to knowe them ſelues.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>OR ſo muche as the declaration of moſt of the principall partes is ſuffi<g ref="char:EOLhyphen"/>ciently ſet foorth in the Anathomie of man, therfore wyll I remyt you the<g ref="char:EOLhyphen"/>ther: Ther to beholde the operation of them, and here we wyll declare the ſi<g ref="char:EOLhyphen"/>tuation and maner of ſuch partes as are in wooman differente from the partes in man. Howe be it, firſt ye ſhall vnderſtande the ſignification of the letters, whiche are grauen within this figure.</p>
+               <list>
+                  <item>
+                     <label>A</label> The gully of the threte.</item>
+                  <item>
+                     <label>B</label> The Lunges.</item>
+                  <item>
+                     <label>C</label> The harte.</item>
+                  <item>
+                     <label>D</label> The middreſe.</item>
+                  <item>
+                     <label>E</label> The inner parte of the throtte pype, paſſynge through the boolke and the lunges into the ſtomacke,</item>
+                  <item>
+                     <label>F</label> The mouth of the ſtomacke.</item>
+                  <item>
+                     <label>G</label> The ſtomacke.</item>
+                  <item>
+                     <label>H</label> The botome of the ſtomacke.</item>
+                  <item>
+                     <label>I</label> The nether mouth of the ſtomacke.</item>
+                  <item>
+                     <label>K</label> The lyuer. Next vnto this letter. <hi>K.</hi> you ſe this</item>
+                  <item>
+                     <label>L</label> letter. <hi>V.</hi> the which wold be. <hi>L.</hi> &amp; it ſignifieth the gaule</item>
+                  <item>
+                     <label>M</label> 
+                     <hi>Vena portae,</hi> the lyuer vayne.</item>
+                  <item>
+                     <label>N</label> The ſplene.</item>
+                  <item>
+                     <label>O</label> Signifieth the place and veſſel to the whiche the ſloures be deriuied from the lyuer, <hi>nam menſes in primis ſenſim eru<g ref="char:cmbAbbrStroke">̄</g>punt ab ipſo iccinore, uelut per quaeda<g ref="char:cmbAbbrStroke">̄</g> interualla, do<g ref="char:EOLhyphen"/>nec peruentum fit ad illa (ſuper primum ceruicis pudendae exor, tum) acetabula: quos hec, quaſi hianti &amp; aperto ore effundunt.</hi>
+                  </item>
+                  <item>
+                     <label>P</label> Signifieth the kydneys, in Laten <hi>Renes.</hi>
+                  </item>
+                  <item>
+                     <label>Q</label> Te bladder, in Laten <hi>Veſica,</hi> this bladder, recea<g ref="char:EOLhyphen"/>ueth the waterye partes and vrine, which deſcendeth from the raynes, and it lyeth in the lower parte of the bellye before the woombe or matrice of the woman, whoſe necke entreth in at, and is faſtened to the necke of the woombe through the whiche naturally it ſen<g ref="char:EOLhyphen"/>deth foorthe the vrine.</item>
+                  <item>
+                     <label>R</label> Signifieth the great vayne, whiche is diriued out of the lyuer, called in Laten <hi>Parigibba &amp; Chilis: cencaua, uenarum mater,</hi> the moother of all vaynes, and from whom, and through his branches, other ſmaller vay<g ref="char:EOLhyphen"/>nes, bludde is co<g ref="char:cmbAbbrStroke">̄</g>ueyed into all partes of ma<g ref="char:cmbAbbrStroke">̄</g>nes bodye.</item>
+                  <item>
+                     <label>S T. V. X.</label> Signifieth the woombe, wherein mankynd is conceaued, nooriſhed, and foſtred, vnto the time it be of a certayn might and force, and then naturallye is ſente and brought foorth in to the worlde: and it is called in Laten <hi>Matrix:</hi> before it, is the bladder: but it is ſomwhat hygher then the bladder: the botom of it extendeth it ſelfe vnto the Nauell.</item>
+                  <item>
+                     <label>S.</label> Signifieth the botome of the woombe, where is a certayne thycke carnoſyte, whiche boweth downe-warde and cauſeth a diſtinction to be in the woombe,</item>
+                  <item>
+                     <label>T</label> wherfore. <hi>T.</hi> ſygnifieth the righte ſyde of the matrice</item>
+                  <item>
+                     <label>V</label> The lefte ſyde. Some there be that wryte, that there ſholde be many ſelles or diſtinctions in the ma<g ref="char:EOLhyphen"/>trice, the whiche is not true: for other diſtinction then the fleſhye parte, which is ſignified by <hi>S.</hi> doth cauſe, is there none. In the right ſyde, as Philoſophers wryte, lyeth alwaye the man chylde, in the left the wooman childe. And to knowe whether the co<g ref="char:cmbAbbrStroke">̄</g>ception be male or female, thei bydde to marke whether it moue more on the righte fyde then the lefte, for then it is a man, If on the lefte more, then on the right ſyde, then it is a wooman: and for that cauſe alſo is to be noted the two breſtes, the righte and the lefte: yf the right be greater or harder then the left, it is a token of a man, yf the lefte, of a wooman: and yf ſhe haue more payne and doloure in the right ſyde, lykewyſe it ſignifieth the man child, if in the left, a wooman. Whether it be man or woman, accordyng to the doctors of phyſycke and phyloſophers, when the ſeade is firſte conceaued in to the matrix, it encloſeth it ſelfe after ſuche a ſorte, that the poynte of a nedle canne not enter in at it, but by violence. And the firſte .vi. dayes that it is concea<g ref="char:EOLhyphen"/>ued, it remayneth crude and whyte lyke mylke. Then in the ſpace of other .ix. dayes, it waxeth redde, and is become thycke bludde. Then in other .xii. daies it beginneth to come to ſome faſhion: then in the .xviii. dayes folowynge the face and other principall mem<g ref="char:EOLhyphen"/>bres begynne to growe in to a full ſhape and forme, in longitude, latitude, and profundite. In the reſt of the tyme vnto the byrth it is conforted and prepared to come foorthe: the whiche manye times chau<g ref="char:cmbAbbrStroke">̄</g>ſeth in the vii. moneth, and the chyld proueth and doth verye wel: but in the .vui. moneth few or none proue. About the latter ende of the ix. againe, if it be borne, it pro<g ref="char:EOLhyphen"/>ueth verye well, that is the moſte commone courſſe. xl. weakes after the conception. The maner how the chylde lyeth in the moothers woombe, is this: the face lyeth on bothe the knees, both the handes beynge be<g ref="char:EOLhyphen"/>twene the face and the knees: after ſuche maner that the noſe dependeth betwene the knees, and ether of the eyes on ether of the knees: ſo lyeth it rounde in maner, and the face towarde the inwarde parte of the woombe: and this partly haue I ſhewed you of the operation of the matrice.</item>
+               </list>
+               <list>
+                  <head>
+                     <g ref="char:leaf">❧</g> A perfecte and particular deſcription of the ſecrete partes of the bodie of wooman, with the ſignification of the letters con<g ref="char:EOLhyphen"/>teyned in the ſame.</head>
+                  <item>
+                     <label>1</label> The woombe is called in Laten <hi>Matrix</hi> as it weare <hi>Mater</hi> (that is) a moother: for as muche as all beaſtes proccade oute of that as borne of a moother. It han<g ref="char:EOLhyphen"/>geth betwene the ſplen and the bladder: but ſomwhat higher then the bladder. The botome and holowneſſe therof, is extended vnto the nauel: and it is the place of the firſt maſſe of conception called <hi>Embrion.</hi>
+                  </item>
+                  <item>
+                     <label>2</label> The right ſyde or goulfe of the matrics, wherin male children are begotten.</item>
+                  <item>
+                     <label>3</label> The lefte goulfe of the matrice, wherin female children are begotten.</item>
+                  <item>
+                     <label>4</label> The mouthe or enterance of the matrice, which is vncloſed in the woorke of natural generation and re<g ref="char:EOLhyphen"/>ceaueth the ſeede of man. And after conception, ſo ſtreyghtly cloſeth it ſelfe, that the poynte of a needle, can not enter into it. Yet at times conuenient (that is to ſaye, at the auoyding of floures) it openeth it ſelfe.</item>
+                  <item>
+                     <label>5</label> From henſe proceadeth the ſeede of wooma<g ref="char:cmbAbbrStroke">̄</g> in con<g ref="char:EOLhyphen"/>ception: and likewyſe the ſeede of man.</item>
+                  <item>
+                     <label>6</label> This is the diuiſion of the great vaynes, proceding from the liuer to the harte: and agen from the harte, paſſing through the ridge bone of the backe, wheru<g ref="char:cmbAbbrStroke">̄</g>to alſo the kydneys do cleaue. Fro<g ref="char:cmbAbbrStroke">̄</g> henſe coome the vay<g ref="char:EOLhyphen"/>nes wherby the menſtrual bludde (for lacke of natu<g ref="char:EOLhyphen"/>rall heate engendred of crude and vndigeſt bludde) is conueyed into the matrice.</item>
+                  <item>
+                     <label>7</label> The necke of the matrice, is vi. fingers in lenketh hauing beneath a narowe mouthe, wherby the yſſue of the bladder ſendeth foorth vrine.</item>
+                  <item>
+                     <label>8</label> The priuie membre of wooman.</item>
+                  <item>
+                     <label>9</label> Two great arterie vaynes, wherunto the matrice is faſtened. And are therfore called the wynges of the matrice.</item>
+               </list>
+               <pb facs="tcp:24733:7"/>
+               <pb facs="tcp:24733:7"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
